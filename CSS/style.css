@@ -43,3 +43,24 @@ p {
 #main-guy {
 	color: red;
 }
+
+.controls {
+	text-align: center;
+}
+.btn {
+	font-size: 17px;
+	background-color: rgb(221, 107, 107);
+  padding: 15px; 30px;
+	border: 1px solid black;
+	border-radius: 9px;
+	cursor: pointer;
+}
+
+.btn-success {
+	color: #fff;
+	background:rgb(0, 0, 0);
+}
+.btn-danger {
+	color: #fff;
+	background:rgb(49, 96, 224);
+}
