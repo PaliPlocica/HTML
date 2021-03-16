@@ -1,0 +1,19 @@
+CSS
+
+body {
+
+}
+
+h1, h2, h3 {
+  color: #95;
+  font-size: 42px;
+}
+
+p {
+  padding-bottom: 10px;
+  border-bottom: 1px solid lightgrey;
+}
+
+a {
+  /*line-height: 26px;*/
+}
