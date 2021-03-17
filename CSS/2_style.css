@@ -1,4 +1,36 @@
 body {
 	color: rgb(15, 15, 15);
 	background-color: red;
+	line-height: 22px;
+	text-align: center;
+	padding: 25px 0;
+	font family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+	-webkit-font-smoothing: antialiased;
 }
+
+h1 {
+	font-size: 70px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+	line-height: 22px;
+	width: 50%;
+	margin: 100px auto;
+}
+
+a {
+	color: rgb(12, 12, 12);
+	background: #fff;
+	text-decoration: none;
+	padding: 2px 6px 3px 6px;
+	border-radius: 5px;
+	font-weight: bold;
+	
+}
+
+/*ak je nad nim mys*/a:hover {
+background: green;
+}
+
+/*h2: display-none;*/
